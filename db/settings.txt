@@ -1,0 +1,5 @@
+Para a configuração é necessário:
+(Isso será necessário somente se mudarmos a estrutura do BD)
+-Descomentar a função de sincronizar
+- Rodar o arquivo models.js
+- Comentar a função novamente
